@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Summary: 
+
+Basic CRUD example of author web app. 
+
 In the project directory, you can run:
 
 ### `npm start`
